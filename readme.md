@@ -1,5 +1,7 @@
 # [Predicting Wine Quality by comparing Linear Regression with Machine Learning techniques.](https://youtu.be/QpNIjdjWO0Q)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Comparing Linear Regression with kNN, Decision Tree and Random Forest with Bayesian Inference to Predict Wine Quality in Python.
 
 We use python and Jupyter Notebook to download, extract, transform and analyze data about the physicochemical properties which make up wine, and use them to predict quality.  
