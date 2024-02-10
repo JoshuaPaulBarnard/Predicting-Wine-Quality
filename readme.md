@@ -29,7 +29,7 @@ physicochemical properties. In Decision Support Systems,
 Elsevier, 47(4):547-553, 2009. Available at:
 <http://www3.dsi.uminho.pt/pcortez/wine/>
 
--Charters, S. and Pettigrew, S., 2007. The dimensions of wine
+- Charters, S. and Pettigrew, S., 2007. The dimensions of wine
 quality. Food Quality and Preference, [online] 18(7),
 pp.997-1007. Available at:
 <https://doi.org/10.1016/j.foodqual.2007.04.003>
